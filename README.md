@@ -6,10 +6,11 @@ I specialize in:
 
 • Python  
 • AWS Data Engineering  
+• Azure
 • Apache Spark / PySpark  
 • Distributed Data Systems  
 • Kafka Streaming Pipelines  
-• LLM + RAG Applications  
+• LLM + RAG Applications
 
 ---
 
