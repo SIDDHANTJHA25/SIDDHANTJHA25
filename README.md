@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi 👋 I'm Siddhant
 
-<!--
-**SIDDHANTJHA25/SIDDHANTJHA25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python & Data Engineer with 4.6 years of experience building scalable data platforms, cloud pipelines, and AI-powered applications.
 
-Here are some ideas to get you started:
+I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Python  
+• AWS Data Engineering  
+• Apache Spark / PySpark  
+• Distributed Data Systems  
+• Kafka Streaming Pipelines  
+• LLM + RAG Applications  
+
+---
+
+# 🔧 Tech Stack
+
+### Programming
+Python | SQL | Java | PySpark
+
+### Data Engineering
+Apache Spark  
+ETL / ELT Pipelines  
+Data Lakes  
+Data Warehousing  
+
+### Cloud
+AWS (S3, Glue, Lambda, Athena, EMR)
+
+### Streaming
+Apache Kafka  
+Real-time Data Processing
+
+### AI / GenAI
+LLM Applications  
+Retrieval Augmented Generation (RAG)  
+Vector Databases
+
+---
+
+# 🚀 Featured Projects
+
+## 1️⃣ Financial Fraud Detection Data Platform
+Real-time fraud detection pipeline using Spark and Kafka.
+
+Tech:
+Python • PySpark • Kafka • AWS S3 • ML
+
+Repository:
+https://github.com/YOUR_USERNAME/fraud-detection-data-platform
+
+---
+
+## 2️⃣ Real-Time Streaming Data Platform
+Distributed streaming architecture for processing real-time transaction events.
+
+Tech:
+Kafka • Spark Streaming • AWS S3 • Airflow
+
+Repository:
+https://github.com/YOUR_USERNAME/realtime-streaming-data-platform
+
+---
+
+## 3️⃣ AWS Data Lake Pipeline
+Cloud-native data pipeline storing financial data in AWS S3 data lake.
+
+Tech:
+AWS S3 • Glue • Athena • Python
+
+Repository:
+https://github.com/YOUR_USERNAME/aws-data-lake-pipeline
+
+---
+
+## 4️⃣ Enterprise Knowledge Assistant (LLM + RAG)
+Enterprise AI assistant for document search using vector embeddings.
+
+Tech:
+LangChain • FAISS • FastAPI • LLM
+
+Repository:
+https://github.com/YOUR_USERNAME/rag-enterprise-assistant
+
+---
+
+## 5️⃣ Distributed Data Warehouse (Spark + Iceberg)
+Modern data lakehouse architecture using Spark and Iceberg.
+
+Tech:
+Spark • Iceberg • AWS S3 • Airflow
+
+Repository:
+https://github.com/YOUR_USERNAME/distributed-data-warehouse-spark-iceberg
+
+---
+
+# 📈 What I Work On
+
+• Building scalable distributed data pipelines  
+• Designing real-time streaming systems  
+• Cloud-native data platforms on AWS  
+• Enterprise AI applications using LLMs  
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/siddhantjha25/
+
+Email  
+sidjha179@gmail.com
