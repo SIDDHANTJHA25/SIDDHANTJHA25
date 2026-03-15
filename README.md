@@ -47,7 +47,7 @@ Tech:
 Python • PySpark • Kafka • AWS S3 • ML
 
 Repository:
-https://github.com/YOUR_USERNAME/fraud-detection-data-platform
+https://github.com/SIDDHANTJHA25/fraud-detection-data-platform
 
 ---
 
@@ -58,7 +58,7 @@ Tech:
 Kafka • Spark Streaming • AWS S3 • Airflow
 
 Repository:
-https://github.com/YOUR_USERNAME/realtime-streaming-data-platform
+https://github.com/SIDDHANTJHA25/realtime-streaming-data-platform
 
 ---
 
@@ -69,7 +69,7 @@ Tech:
 AWS S3 • Glue • Athena • Python
 
 Repository:
-https://github.com/YOUR_USERNAME/aws-data-lake-pipeline
+https://github.com/SIDDHANTJHA25/aws-data-lake-pipeline
 
 ---
 
@@ -80,7 +80,7 @@ Tech:
 LangChain • FAISS • FastAPI • LLM
 
 Repository:
-https://github.com/YOUR_USERNAME/rag-enterprise-assistant
+https://github.com/SIDDHANTJHA25/rag-enterprise-assistant
 
 ---
 
@@ -91,7 +91,7 @@ Tech:
 Spark • Iceberg • AWS S3 • Airflow
 
 Repository:
-https://github.com/YOUR_USERNAME/distributed-data-warehouse-spark-iceberg
+https://github.com/SIDDHANTJHA25/distributed-data-warehouse-spark-iceberg
 
 ---
 
