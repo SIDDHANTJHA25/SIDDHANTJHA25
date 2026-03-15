@@ -5,7 +5,8 @@ Python & Data Engineer with 4.6 years of experience building scalable data platf
 I specialize in:
 
 • Python  
-• AWS Data Engineering  
+• AWS Data Engineering
+• Azure Data Engineering
 • Apache Spark / PySpark  
 • Distributed Data Systems  
 • Kafka Streaming Pipelines  
