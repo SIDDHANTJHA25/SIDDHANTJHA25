@@ -6,7 +6,7 @@ I specialize in:
 
 • Python  
 • AWS Data Engineering  
-• Azure 
+• Azure  
 • Apache Spark / PySpark  
 • Distributed Data Systems  
 • Kafka Streaming Pipelines  
